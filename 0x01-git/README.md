@@ -1,2 +1,3 @@
 # alx-pre_course
-this is a readme file in 0x01-git directory
+updating readme from github interface. 
+ALLOWABLE ONLY THIS ONE TIME
